@@ -1,0 +1,14 @@
+{
+  "Gifts":
+  [
+  {
+    "giftWebsite":"https://www.fragrancenet.com/fragrances/calvin-klein/ck-one/edt#115760",
+    "giftImage":"perfume.jpg"
+  },
+  {
+    "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
+    "giftImage":"laptop.jpg"
+  }
+  ],
+  "Status":"OK"
+}
