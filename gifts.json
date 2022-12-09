@@ -3,73 +3,73 @@
   [
   {
     "giftWebsite":"https://www.fragrancenet.com/fragrances/calvin-klein/ck-one/edt#115760",
-    "giftImage":"perfume.jpg",
+    "giftImage":"https://raw.githubusercontent.com/kn-perez/Gifts/main/perfume.jpg",
     "giftName":"Perfume",
     "giftGender":"MALE/FEMALE"
   },
   {
     "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
-    "giftImage":"laptop.jpg",
+    "giftImage":"https://raw.githubusercontent.com/kn-perez/Gifts/main/laptop.jpg",
     "giftName":"Laptop",
     "giftGender":"MALE/FEMALE"
 },
 {
     "giftWebsite":"https://www.fragrancenet.com/fragrances/calvin-klein/ck-one/edt#115760",
-    "giftImage":"iphone.jpg",
+    "giftImage":"https://raw.githubusercontent.com/kn-perez/Gifts/main/iphone.jpg",
     "giftName":"IPhone",
     "giftGender":"MALE/FEMALE"
   },
   {
     "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
-    "giftImage":"airpods.jpg",
+    "giftImage":"https://raw.githubusercontent.com/kn-perez/Gifts/main/airpods.jpg",
     "giftName":"Airpods",
     "giftGender":"MALE/FEMALE"
 },
 {
     "giftWebsite":"https://www.fragrancenet.com/fragrances/calvin-klein/ck-one/edt#115760",
-    "giftImage":"switch.jpg",
+    "giftImage":"https://raw.githubusercontent.com/kn-perez/Gifts/main/switch.jpg",
     "giftName":"Switch",
     "giftGender":"MALE/FEMALE"
   },
   {
     "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
-    "giftImage":"lego.jpg",
+    "giftImage":"https://raw.githubusercontent.com/kn-perez/Gifts/main/lego.jpg",
     "giftName":"Legos",
     "giftGender":"MALE/FEMALE"
 },
 {
     "giftWebsite":"https://www.fragrancenet.com/fragrances/calvin-klein/ck-one/edt#115760",
-    "giftImage":"watch.jpg",
+    "giftImage":"https://raw.githubusercontent.com/kn-perez/Gifts/main/watch.jpg",
     "giftName":"Watch",
     "giftGender":"MALE/FEMALE"
   },
   {
     "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
-    "giftImage":"converse.jpg",
+    "giftImage":"https://raw.githubusercontent.com/kn-perez/Gifts/main/converse.jpg",
     "giftName":"Converse",
     "giftGender":"MALE/FEMALE"
 },
 {
     "giftWebsite":"https://www.fragrancenet.com/fragrances/calvin-klein/ck-one/edt#115760",
-    "giftImage":"blanket.jpg",
+    "giftImage":"https://raw.githubusercontent.com/kn-perez/Gifts/main/blanket.jpg",
     "giftName":"Blanket",
     "giftGender":"MALE/FEMALE"
   },
   {
     "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
-    "giftImage":"headphone.jpg",
+    "giftImage":"https://raw.githubusercontent.com/kn-perez/Gifts/main/headphones.jpg",
     "giftName":"Headphones",
     "giftGender":"MALE/FEMALE"
 },
 {
     "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
-    "giftImage":"iceskates.jpg",
+    "giftImage":"https://raw.githubusercontent.com/kn-perez/Gifts/main/questionmark.jpg",
     "giftName":"Ice Skates",
     "giftGender":"MALE/FEMALE"
 },
 {
     "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
-    "giftImage":"coats.jpg",
+    "giftImage":"https://raw.githubusercontent.com/kn-perez/Gifts/main/questionmark.jpg",
     "giftName":"Winter Coat",
     "giftGender":"MALE/FEMALE"
 }
