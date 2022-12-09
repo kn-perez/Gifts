@@ -66,6 +66,12 @@
     "giftImage":"iceskates.jpg",
     "giftName":"Ice Skates",
     "giftGender":"MALE/FEMALE"
+},
+{
+    "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
+    "giftImage":"coats.jpg",
+    "giftName":"Winter Coat",
+    "giftGender":"MALE/FEMALE"
 }
   ],
   "Status":"OK"
