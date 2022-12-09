@@ -3,12 +3,70 @@
   [
   {
     "giftWebsite":"https://www.fragrancenet.com/fragrances/calvin-klein/ck-one/edt#115760",
-    "giftImage":"perfume.jpg"
+    "giftImage":"perfume.jpg",
+    "giftName":"Perfume",
+    "giftGender":"MALE/FEMALE"
   },
   {
     "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
-    "giftImage":"laptop.jpg"
-  }
+    "giftImage":"laptop.jpg",
+    "giftName":"Laptop",
+    "giftGender":"MALE/FEMALE"
+}
+{
+    "giftWebsite":"https://www.fragrancenet.com/fragrances/calvin-klein/ck-one/edt#115760",
+    "giftImage":"iphone.jpg",
+    "giftName":"IPhone",
+    "giftGender":"MALE/FEMALE"
+  },
+  {
+    "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
+    "giftImage":"airpods.jpg",
+    "giftName":"Airpods",
+    "giftGender":"MALE/FEMALE"
+}
+{
+    "giftWebsite":"https://www.fragrancenet.com/fragrances/calvin-klein/ck-one/edt#115760",
+    "giftImage":"switch.jpg",
+    "giftName":"Switch",
+    "giftGender":"MALE/FEMALE"
+  },
+  {
+    "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
+    "giftImage":"lego.jpg",
+    "giftName":"Legos",
+    "giftGender":"MALE/FEMALE"
+}
+{
+    "giftWebsite":"https://www.fragrancenet.com/fragrances/calvin-klein/ck-one/edt#115760",
+    "giftImage":"watch.jpg",
+    "giftName":"Watch",
+    "giftGender":"MALE/FEMALE"
+  },
+  {
+    "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
+    "giftImage":"converse.jpg",
+    "giftName":"Converse",
+    "giftGender":"MALE/FEMALE"
+}
+{
+    "giftWebsite":"https://www.fragrancenet.com/fragrances/calvin-klein/ck-one/edt#115760",
+    "giftImage":"blanket.jpg",
+    "giftName":"Blanket",
+    "giftGender":"MALE/FEMALE"
+  },
+  {
+    "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
+    "giftImage":"headphone.jpg",
+    "giftName":"Headphones",
+    "giftGender":"MALE/FEMALE"
+},
+{
+    "giftWebsite":"https://www.bestbuy.com/site/lenovo-ideapad-1i-14-0-hd-laptop-celeron-n4020-4gb-memory-64gb-emmc-cloud-grey/6511947.p?skuId=6511947",
+    "giftImage":"iceskates.jpg",
+    "giftName":"Ice Skates",
+    "giftGender":"MALE/FEMALE"
+}
   ],
   "Status":"OK"
 }
