@@ -109,12 +109,6 @@
     "giftName":"Cash",
     "giftGender":"MALE/FEMALE"
 }
-{
-    "giftWebsite":"",
-    "giftImage":"https://raw.githubusercontent.com/kn-perez/Gifts/main/.jpg",
-    "giftName":"",
-    "giftGender":"MALE/FEMALE"
-}
 
   ],
   "Status":"OK"
